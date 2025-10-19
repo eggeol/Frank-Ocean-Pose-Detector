@@ -23,7 +23,7 @@ A Python app using **MediaPipe** and **OpenCV** to detect the iconic *Blonde* ha
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/YOUR_USERNAME/frank-ocean-pose-detector.git
+git clone https://github.com/eggeol/Frank-Ocean-Pose-Detector.git
 cd frank-ocean-pose-detector
 
 # 2. Create virtual environment
